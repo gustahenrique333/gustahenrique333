@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning python
 - 👯 I'm looking to collaborate on different projects
 - 🤔 I'm looking for help with my Python development
-- 💬 Ask me about on discord:
+- 💬 Ask me about on discord: ghl333
 - 📫 How to reach me: linked
 - ⚡ Fun fact: I like playing video games
